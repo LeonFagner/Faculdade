@@ -7,7 +7,7 @@
 
 const num = 13; 
 
-function isFibonacci(num) {
+function isFibonacci(num){
     let a = 0, b = 1;
     
     while (b <= num) {

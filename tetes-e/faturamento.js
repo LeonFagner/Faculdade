@@ -1,4 +1,4 @@
-const faturamentoMensal = {
+const faturamentoMensal =  {
     "faturamento": [1000, 2000, 0, 1500, 3000, 4000, 0, 2500, 0, 500, 2000, 0, 0, 1500, 3500]
   };
   
