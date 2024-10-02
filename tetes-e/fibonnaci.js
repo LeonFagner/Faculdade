@@ -1,4 +1,10 @@
 
+
+
+
+// 1) ---------------------------> Resposta da questão 1 é soma = 91; <---------------------------------------
+
+
 const num = 13; 
 
 function isFibonacci(num) {
